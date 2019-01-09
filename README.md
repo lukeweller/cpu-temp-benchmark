@@ -1,1 +1,1 @@
-# This repo contains a collection of scripts for testing and displaying the performance of different CPU coolers
+### This repo contains a collection of scripts for testing and displaying the performance of different CPU coolers
